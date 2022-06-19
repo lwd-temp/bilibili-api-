@@ -6,6 +6,8 @@ Pypi 上仍然能下载和使用该库，只是不再更新。如果你动手能
 
 再发布无需经过我的许可。
 
+**该项目目前由 Nemo2011 继续维护，地址：https://github.com/Nemo2011/bilibili_api**
+
 ![LOGO](https://raw.githubusercontent.com/MoyuScript/bilibili-api/HEAD/design/logo.png)
 
 # bilibili-api
